@@ -1,4 +1,4 @@
-# RHCSA-study
+# RHCSA-Study
 Just a repo to post new RHCSA study material....
 
 
