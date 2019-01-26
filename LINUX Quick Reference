@@ -1,6 +1,6 @@
 
 Logging In & Out
-passwd <user>
+passwd <user>/ will get promted twice for confirmation 
 
 User & Group Manipulation
 useradd 
