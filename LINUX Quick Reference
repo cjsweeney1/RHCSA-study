@@ -24,15 +24,17 @@ userdel
 
 
 Using Directories
-  -cd 
-  -cd
-  -cd
-  -cd
-  -cd
-  -cd
-  -cd
-  -
-  -
+  -cd ~
+  -cd ~ ~
+  -cd / -
+  -cd /dir
+  -cd dir
+  -cd .. -
+  -cd../.. -
+  mkdir dir
+  rmdir dir
+ 
+ Viewing the Contents of Directories
   
 
 
