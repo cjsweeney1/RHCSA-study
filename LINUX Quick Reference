@@ -1,4 +1,7 @@
 
+Logging In & Out
+passwd <user>
+
 User & Group Manipulation
 useradd 
   -g <group name or number>
