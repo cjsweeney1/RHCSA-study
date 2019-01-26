@@ -13,7 +13,7 @@ usermod
   -G <group name(s) or number(s)>
   -u <UID> user ID (UID) or number, default is the next available #
 userdel
-
+  -r removes users home directory
 
 
 
