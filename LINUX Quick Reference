@@ -14,6 +14,10 @@ usermod
   -u <UID> user ID (UID) or number, default is the next available #
 userdel
   -r removes users home directory
+  
+ Linux Shells & Command Line
+    -$echo $SHELL
+      /bin/bash/
 
 
 
