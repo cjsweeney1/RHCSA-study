@@ -4,7 +4,7 @@ useradd
   -g <group name or number>
   -G <group name(s) or number(s)>
   -m create home directory if one doesn't exist
-  -u <UID> 
+  -u <UID> user ID (UID) or number, default is the next available #
 usermod
 userdel
 
