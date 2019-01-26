@@ -1,0 +1,14 @@
+
+
+Changing Passwords
+password - password <user>
+
+
+User & Group Manipulation
+useradd 
+  -g
+  -G
+  -m
+  -u
+usermod
+userdel
