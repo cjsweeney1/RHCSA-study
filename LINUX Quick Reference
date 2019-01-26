@@ -6,6 +6,9 @@ useradd
   -m create home directory if one doesn't exist
   -u <UID> user ID (UID) or number, default is the next available #
 usermod
+  -g <group name or number>
+  -G <group name(s) or number(s)>
+  -u <UID> user ID (UID) or number, default is the next available #
 userdel
 
 
