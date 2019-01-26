@@ -6,9 +6,13 @@ password - password <user>
 
 User & Group Manipulation
 useradd 
-  -g
-  -G
+  -g <group name or number>
+  -G <group name(s) or number(s)>
   -m
   -u
 usermod
 userdel
+
+
+
+
