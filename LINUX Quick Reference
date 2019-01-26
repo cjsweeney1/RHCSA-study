@@ -1,18 +1,1 @@
 
-
-Changing Passwords
-password - password <user>
-
-
-User & Group Manipulation
-useradd 
-  -g <group name or number>
-  -G <group name(s) or number(s)>
-  -m  create home directory if it doesn't exist
-  -u <UID>
-usermod
-userdel
-
-
-
-
